@@ -12,15 +12,6 @@ Program ini merupakan program perbandingan antara Array dan ArrayList dengan par
 - [x] Perbandingan semua
 ---
 
-### 👤 Identitas Mahasiswa
-- **Nama:** Egi Nugraha  
-- **NIM:** 2802597854  
-- **Mata Kuliah:** Data Structures and Algorithm Analysis  
-- **Kode Mata Kuliah:** COSC6025036
-- **Kode Kelas:** AOCA - LAB
-
----
-
 ### 🚀 Cara Menjalankan Program
 
 1. Clone source code dari repository
@@ -35,5 +26,4 @@ javac *.java
 ```bash
 java Main
 ```
-
-Terima kasih 🙏🏻
+Maintained by [Sabio](https://sabio.co.id/)
